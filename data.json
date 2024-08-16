@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Азат",
+    "age": 18,
+    "married": true,
+    "siblings": {
+      "sister": "Марал",
+      "brother": "Адилет"
+    }
+
+  },
+  {
+    "name": "Айгерим",
+    "age": 18,
+    "married": false,
+    "siblings": {
+      "sister": "Нурперим",
+      "brother": false
+    }
+
+  },
+  {
+    "name": "Олег",
+    "age": 35,
+    "married": true,
+    "siblings": {
+      "sister": "Катя",
+      "brother": "Саша"
+    }
+  }
+]
